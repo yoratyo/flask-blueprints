@@ -1,0 +1,14 @@
+flask
+gunicorn
+psycopg2
+flask-sqlalchemy
+alembic
+flask-admin
+flask-wtf
+flask-modus
+ipython
+flask-migrate
+flask-script
+flask-admin
+flask-wtf
+flask-bcrypt
